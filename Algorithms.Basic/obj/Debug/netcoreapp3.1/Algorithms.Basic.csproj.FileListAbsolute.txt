@@ -1,0 +1,9 @@
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\bin\Debug\netcoreapp3.1\Algorithms.Basic.deps.json
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\bin\Debug\netcoreapp3.1\Algorithms.Basic.dll
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\bin\Debug\netcoreapp3.1\Algorithms.Basic.pdb
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\obj\Debug\netcoreapp3.1\Algorithms.Basic.csprojAssemblyReference.cache
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\obj\Debug\netcoreapp3.1\Algorithms.Basic.csproj.CoreCompileInputs.cache
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\obj\Debug\netcoreapp3.1\Algorithms.Basic.AssemblyInfoInputs.cache
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\obj\Debug\netcoreapp3.1\Algorithms.Basic.AssemblyInfo.cs
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\obj\Debug\netcoreapp3.1\Algorithms.Basic.dll
+C:\Users\imanm\source\repos\Algorithms\Algorithms.Basic\obj\Debug\netcoreapp3.1\Algorithms.Basic.pdb
